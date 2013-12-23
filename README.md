@@ -1,0 +1,2 @@
+ArduinoEEPROM_MagicNumber
+=========================
